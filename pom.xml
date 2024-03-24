@@ -12,7 +12,7 @@
         <module>Frontend</module>
         <module>Backend</module>
     </modules>
-    <build>     <!-- TODO: Build at the same time--
+    <build>     <!-- TODO: Build at the same time-->
         <plugins>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
